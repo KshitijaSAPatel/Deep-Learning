@@ -1,2 +1,3 @@
-# Deep_Learning
-These notebooks contain Deep Learning codes and mini-projects I had done while learning the subject 
+# Deep Learning
+Various Deep Learning projects is something I absolutely enjoy doing. 
+Here are a new codes :) 
